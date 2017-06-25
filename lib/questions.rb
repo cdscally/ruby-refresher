@@ -2,7 +2,7 @@
 def select_elements_starting_with_a(array)
 end
 
-# keep only the elements that start with a vowel
+# keep ony the elements that start with a vowel
 def select_elements_starting_with_vowel(array)
 end
 
